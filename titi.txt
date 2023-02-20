@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 salut
 ca va bien negh?
+salut 
+//amek ? ca va ?
+
+
